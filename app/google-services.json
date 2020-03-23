@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10570044993",
+    "firebase_url": "https://collegeconnect-ec35d.firebaseio.com",
+    "project_id": "collegeconnect-ec35d",
+    "storage_bucket": "collegeconnect-ec35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10570044993:android:172f49c603b7bf492818c0",
+        "android_client_info": {
+          "package_name": "org.electromob.college_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10570044993-j8vgr92h542ebf4knhv0tp0nj964mpmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMp6ChQ9YJkBnEpLNL0Gh5VGXt_voMqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10570044993-j8vgr92h542ebf4knhv0tp0nj964mpmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
